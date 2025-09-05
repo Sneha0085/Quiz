@@ -1,4 +1,4 @@
-import { Quiz } from "./pages/Quiz";
+import { Quiz } from "./assets/Quiz";
 function App() {
   return (
     <div className="App">
