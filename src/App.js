@@ -1,7 +1,7 @@
-import { Quiz } from "./assets/Quiz";
+import Quiz from "./assets/Quiz";
 function App() {
   return (
-    <div className="App">
+    <div>
    
      <Quiz/>
     </div>
